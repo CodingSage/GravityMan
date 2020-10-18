@@ -1,0 +1,10 @@
+.vs/
+Assembly-CSharp.csproj
+GravityMan.sln
+Library/
+Logs/
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+obj/
