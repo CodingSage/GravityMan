@@ -10,15 +10,15 @@ public class Desctructor : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collider)
     {
-        if (collider.isTrigger) return;
         Destructible destructible = collider.gameObject.GetComponent<Destructible>();
+        if (destructible == null || collider.isTrigger && destructible.type != DestructibleType.Environment) return;
         InflictDamage(destructible);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.collider.isTrigger) return;
         Destructible destructible = collision.gameObject.GetComponent<Destructible>();
+        if (destructible == null || collision.collider.isTrigger && destructible.type != DestructibleType.Environment) return;
         InflictDamage(destructible);
     }
 

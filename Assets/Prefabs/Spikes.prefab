@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8516047071752222562}
   - component: {fileID: 8516047071752222560}
   - component: {fileID: 376990241}
+  - component: {fileID: 2713771776635595663}
   m_Layer: 0
   m_Name: Spikes
   m_TagString: Untagged
@@ -97,6 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 1
+  type: 0
 --- !u!61 &376990241
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -123,3 +125,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.32, y: 0.17}
   m_EdgeRadius: 0
+--- !u!114 &2713771776635595663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8516047071752222563}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 356ecaa4f852e6741bec7db10d659786, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 1
+  maxHitPoints: 1
+  hitPoints: 0

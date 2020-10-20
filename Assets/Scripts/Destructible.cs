@@ -11,7 +11,6 @@ public class Destructible : MonoBehaviour
 
     private void Start()
     {
-        type = DestructibleType.Environment;
         hitPoints = maxHitPoints;
     }
 
@@ -29,6 +28,10 @@ public class Destructible : MonoBehaviour
     {
         hitPoints += modAmount;
         hitPoints = Mathf.Min(maxHitPoints, hitPoints);
+        if(hitPoints <= 0 && type == DestructibleType.Environment)
+        {
+            Destroy(gameObject);
+        }
     }
 
     public bool isDown()
