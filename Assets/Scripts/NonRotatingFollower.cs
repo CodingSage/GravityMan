@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FollowerCamera : MonoBehaviour
+public class NonRotatingFollower : MonoBehaviour
 {
     public Transform body;
 
@@ -11,6 +11,5 @@ public class FollowerCamera : MonoBehaviour
         Vector3 bodyPosition = body.position;
         Vector3 cameraPosition = new Vector3(bodyPosition.x, bodyPosition.y, transform.position.z);
         transform.position = cameraPosition;
-        transform.rotation = body.rotation;
     }
 }

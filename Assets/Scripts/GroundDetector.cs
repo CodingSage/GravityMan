@@ -7,11 +7,11 @@ public class GroundDetector : MonoBehaviour
 {
     [HideInInspector]
     public bool onGround = false;
-    private GravityController gravityController;
+    private VariableGravity gravityController;
 
     private void Start()
     {
-        gravityController = GetComponent<GravityController>();
+        gravityController = GetComponent<VariableGravity>();
     }
 
     private void OnCollisionStay2D(Collision2D collision)

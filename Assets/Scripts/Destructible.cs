@@ -4,12 +4,14 @@ using UnityEngine;
 
 public class Destructible : MonoBehaviour
 {
+    public DestructibleType type;
     public int maxHitPoints = 3;
     [SerializeField]
     private int hitPoints = 0;
 
     private void Start()
     {
+        type = DestructibleType.Environment;
         hitPoints = maxHitPoints;
     }
 

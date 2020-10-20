@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class GravityController : MonoBehaviour
+public class VariableGravity : MonoBehaviour
 {
     [HideInInspector]
     public Vector2 gravityDirection;
@@ -14,6 +14,8 @@ public class GravityController : MonoBehaviour
     {
         gravityDirection = Vector2.down;
         body = GetComponent<Rigidbody2D>();
+        // A gravity variable rigidbody will not have any natural gravity act on it
+        body.gravityScale = 0;
     }
 
     void Update()

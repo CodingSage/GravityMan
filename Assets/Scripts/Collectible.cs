@@ -2,11 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum CollectibleType
-{
-    GoalMarker, Health, JumpBonus, Invincibility, Ammo
-}
-
 [RequireComponent(typeof(Collider2D))]
 public class Collectible : MonoBehaviour
 {
