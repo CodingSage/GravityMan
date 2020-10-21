@@ -1,0 +1,3190 @@
+fileFormatVersion: 2
+guid: fa208a00b0980854e9628d17cc0302e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -799773371622499645
+    second: walker3_0
+  - first:
+      213: -1500859643698744716
+    second: walker3_1
+  - first:
+      213: -4601324001308476658
+    second: walker3_2
+  - first:
+      213: -8673829537456315526
+    second: walker3_3
+  - first:
+      213: 4122530329049680316
+    second: walker3_4
+  - first:
+      213: -4047654781966940913
+    second: walker3_5
+  - first:
+      213: -527681648277134820
+    second: walker3_6
+  - first:
+      213: 8539924006667671544
+    second: walker3_7
+  - first:
+      213: 5513692613959768326
+    second: walker3_8
+  - first:
+      213: 4774702522102288080
+    second: walker3_9
+  - first:
+      213: 7419648928831442270
+    second: walker3_10
+  - first:
+      213: 6255961123689747898
+    second: walker3_11
+  - first:
+      213: -2224071814791164652
+    second: walker3_12
+  - first:
+      213: -2777080184782956914
+    second: walker3_13
+  - first:
+      213: -2373608224362285493
+    second: walker3_14
+  - first:
+      213: 7401434283817489564
+    second: walker3_15
+  - first:
+      213: 3868968890508423942
+    second: walker3_16
+  - first:
+      213: 1627492146719086170
+    second: walker3_17
+  - first:
+      213: 8472279714558691330
+    second: walker3_18
+  - first:
+      213: 3218059379034998835
+    second: walker3_19
+  - first:
+      213: -5519202971361181692
+    second: walker3_20
+  - first:
+      213: -7559780463389420844
+    second: walker3_21
+  - first:
+      213: 6773073524688101035
+    second: walker3_22
+  - first:
+      213: 2858416856534124258
+    second: walker3_23
+  - first:
+      213: 5465392589890073203
+    second: walker3_24
+  - first:
+      213: 7143282420601635430
+    second: walker3_25
+  - first:
+      213: 2198495498143128153
+    second: walker3_26
+  - first:
+      213: -83852337340109380
+    second: walker3_27
+  - first:
+      213: -5858234075811370256
+    second: walker3_28
+  - first:
+      213: 651512464211298516
+    second: walker3_29
+  - first:
+      213: -1664190578452012828
+    second: walker3_30
+  - first:
+      213: 3588402594330442837
+    second: walker3_31
+  - first:
+      213: -3621622210271067173
+    second: walker3_32
+  - first:
+      213: 4939636368207506509
+    second: walker3_33
+  - first:
+      213: 4120285570889613267
+    second: walker3_34
+  - first:
+      213: -1712439329790102298
+    second: walker3_35
+  - first:
+      213: 7071866362058586915
+    second: walker3_36
+  - first:
+      213: -8236978958278238375
+    second: walker3_37
+  - first:
+      213: 5476958773704762920
+    second: walker3_38
+  - first:
+      213: -9131499405428874909
+    second: walker3_39
+  - first:
+      213: 2647033735582996133
+    second: walker3_40
+  - first:
+      213: 1482244709049487647
+    second: walker3_41
+  - first:
+      213: 8673651271830128699
+    second: walker3_42
+  - first:
+      213: 436978428797341784
+    second: walker3_43
+  - first:
+      213: -4662818912824539085
+    second: walker3_44
+  - first:
+      213: 826540099490852003
+    second: walker3_45
+  - first:
+      213: -2115991113463949605
+    second: walker3_46
+  - first:
+      213: -5876482895148631872
+    second: walker3_47
+  - first:
+      213: -6391695310568013253
+    second: walker3_48
+  - first:
+      213: 8369968084406653984
+    second: walker3_49
+  - first:
+      213: 6667453175311203000
+    second: walker3_50
+  - first:
+      213: -1630154687932582233
+    second: walker3_51
+  - first:
+      213: -8750053998391942277
+    second: walker3_52
+  - first:
+      213: 5209217591508632142
+    second: walker3_53
+  - first:
+      213: 1465961944554168343
+    second: walker3_54
+  - first:
+      213: 8846277220816399706
+    second: walker3_55
+  - first:
+      213: 8138614867871333997
+    second: walker3_56
+  - first:
+      213: 3707862721626928873
+    second: walker3_57
+  - first:
+      213: -2341357573673172997
+    second: walker3_58
+  - first:
+      213: -2161487479899042991
+    second: walker3_59
+  - first:
+      213: -5562141815949338157
+    second: walker3_60
+  - first:
+      213: 5435319378673937162
+    second: walker3_61
+  - first:
+      213: -5097664760704133253
+    second: walker3_62
+  - first:
+      213: -8950041120499806047
+    second: walker3_63
+  - first:
+      213: -4964573376600609884
+    second: walker3_64
+  - first:
+      213: -1564276200169407682
+    second: walker3_65
+  - first:
+      213: -4785334790371962950
+    second: walker3_66
+  - first:
+      213: 5390122177992549363
+    second: walker3_67
+  - first:
+      213: 8552053973816711546
+    second: walker3_68
+  - first:
+      213: -6755154734317732219
+    second: walker3_69
+  - first:
+      213: 167713817166648420
+    second: walker3_70
+  - first:
+      213: -9078399234038304869
+    second: walker3_71
+  - first:
+      213: 3299002273278318393
+    second: walker3_72
+  - first:
+      213: -1887327095283161141
+    second: walker3_73
+  - first:
+      213: 1283453410311515360
+    second: walker3_74
+  - first:
+      213: 2483304475954240771
+    second: walker3_75
+  - first:
+      213: 4145588212223802179
+    second: walker3_76
+  - first:
+      213: 6890585309319255165
+    second: walker3_77
+  - first:
+      213: -8925036127421596449
+    second: walker3_78
+  - first:
+      213: -6779688443417081134
+    second: walker3_79
+  - first:
+      213: 3542412930784024342
+    second: walker3_80
+  - first:
+      213: 2757597777785821638
+    second: walker3_81
+  - first:
+      213: 4984441895588886860
+    second: walker3_82
+  - first:
+      213: -7165214157528777450
+    second: walker3_83
+  - first:
+      213: -2989638769227489618
+    second: walker3_84
+  - first:
+      213: -4668247555910823477
+    second: walker3_85
+  - first:
+      213: -6071140162040423657
+    second: walker3_86
+  - first:
+      213: 473124820713684543
+    second: walker3_87
+  - first:
+      213: 3464544510450676158
+    second: walker3_88
+  - first:
+      213: 1242377670936610635
+    second: walker3_89
+  - first:
+      213: -9117203405399331291
+    second: walker3_90
+  - first:
+      213: 96730527156898946
+    second: walker3_91
+  - first:
+      213: -3727414418572034466
+    second: walker3_92
+  - first:
+      213: -608137644829587859
+    second: walker3_93
+  - first:
+      213: -9154343299870985536
+    second: walker3_94
+  - first:
+      213: 1939523230252755203
+    second: walker3_95
+  - first:
+      213: -7880675616681604814
+    second: walker3_96
+  - first:
+      213: -9190343753239775680
+    second: walker3_97
+  - first:
+      213: 4600485751843116807
+    second: walker3_98
+  - first:
+      213: 6414653296978887994
+    second: walker3_99
+  - first:
+      213: -4128916571719426412
+    second: walker3_100
+  - first:
+      213: -381448346332533304
+    second: walker3_101
+  - first:
+      213: -2293497217478893290
+    second: walker3_102
+  - first:
+      213: -1107315020128672279
+    second: walker3_103
+  - first:
+      213: 4211138607813240698
+    second: walker3_104
+  - first:
+      213: -6776592601507176430
+    second: walker3_105
+  - first:
+      213: 103784132429851921
+    second: walker3_106
+  - first:
+      213: -8702444254133875593
+    second: walker3_107
+  - first:
+      213: -6626972741542944549
+    second: walker3_108
+  - first:
+      213: 3654438734288311210
+    second: walker3_109
+  - first:
+      213: 1293669214822403116
+    second: walker3_110
+  - first:
+      213: -2196629216761165000
+    second: walker3_111
+  - first:
+      213: 2622836526664091734
+    second: walker3_112
+  - first:
+      213: -5065446388853782966
+    second: walker3_113
+  - first:
+      213: 3520721985516105073
+    second: walker3_114
+  - first:
+      213: -8675771827172548871
+    second: walker3_115
+  - first:
+      213: -3141293024134992864
+    second: walker3_116
+  - first:
+      213: -9120458093473276210
+    second: walker3_117
+  - first:
+      213: -1223891119468236630
+    second: walker3_118
+  - first:
+      213: 8281622403605693002
+    second: walker3_119
+  - first:
+      213: 8109499092093050096
+    second: walker3_120
+  - first:
+      213: 7548645113831436945
+    second: walker3_121
+  - first:
+      213: 7225455218326247645
+    second: walker3_122
+  - first:
+      213: -3323173429949026167
+    second: walker3_123
+  - first:
+      213: -4266384770280322404
+    second: walker3_124
+  - first:
+      213: 8483626545563510317
+    second: walker3_125
+  - first:
+      213: -7199986563577030568
+    second: walker3_126
+  - first:
+      213: 7435534613365231409
+    second: walker3_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walker3_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 449
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cadf9b1b52a6e4f0800000000000000
+      internalID: -799773371622499645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 450
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472fd9f1b10eb2be0800000000000000
+      internalID: -1500859643698744716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 450
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b778d1330d420c0800000000000000
+      internalID: -4601324001308476658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 450
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7320a9ddfd50a780800000000000000
+      internalID: -8673829537456315526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 450
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9c7cefd7b263930800000000000000
+      internalID: 4122530329049680316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 450
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f050373db67d3d7c0800000000000000
+      internalID: -4047654781966940913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 449
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e2ff265c4da8f0800000000000000
+      internalID: -527681648277134820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 449
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7d14a33a7e38670800000000000000
+      internalID: 8539924006667671544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 449
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60954c73832948c40800000000000000
+      internalID: 5513692613959768326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 450
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de811a75a6234240800000000000000
+      internalID: 4774702522102288080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_10
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 450
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d0b19c363e7f660800000000000000
+      internalID: 7419648928831442270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_11
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 450
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab55e2a1f73a1d650800000000000000
+      internalID: 6255961123689747898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_12
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 450
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d0a64d7728221e0800000000000000
+      internalID: -2224071814791164652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_13
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 450
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e865c391944d579d0800000000000000
+      internalID: -2777080184782956914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_14
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 449
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46b0f655ef3f0fd0800000000000000
+      internalID: -2373608224362285493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_15
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 449
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94d653444d27b660800000000000000
+      internalID: 7401434283817489564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 384
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603bacd05b651b530800000000000000
+      internalID: 3868968890508423942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 384
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56ddef0c73069610800000000000000
+      internalID: 1627492146719086170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 384
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208c4082385939570800000000000000
+      internalID: 8472279714558691330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 384
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338ce7984f7d8ac20800000000000000
+      internalID: 3218059379034998835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 384
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4008cb8b32ad763b0800000000000000
+      internalID: -5519202971361181692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 386
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d25cb3d8b3461790800000000000000
+      internalID: -7559780463389420844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_22
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 388
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae13a44c7acefd50800000000000000
+      internalID: 6773073524688101035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 389
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e684b98cf22ba720800000000000000
+      internalID: 2858416856534124258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_24
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 389
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37233768a99f8db40800000000000000
+      internalID: 5465392589890073203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_25
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 387
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662c04ac389022360800000000000000
+      internalID: 7143282420601635430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_26
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 385
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95add17e100a28e10800000000000000
+      internalID: 2198495498143128153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_27
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 384
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbda1435eb816def0800000000000000
+      internalID: -83852337340109380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_28
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 384
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faac24752f53bea0800000000000000
+      internalID: -5858234075811370256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_29
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 384
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8cd046223aa0900800000000000000
+      internalID: 651512464211298516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_30
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 384
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0e0d47c7b97e8e0800000000000000
+      internalID: -1664190578452012828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_31
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 384
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cf72ab5219cc130800000000000000
+      internalID: 3588402594330442837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 322
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c026b9c96dbdc0800000000000000
+      internalID: -3621622210271067173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 322
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ceb960b1d1d8440800000000000000
+      internalID: 4939636368207506509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 322
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dffa0285e13e2930800000000000000
+      internalID: 4120285570889613267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 322
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4f370a0813c38e0800000000000000
+      internalID: -1712439329790102298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 322
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b3989ecf0542260800000000000000
+      internalID: 7071866362058586915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 323
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5571674f50bd80800000000000000
+      internalID: -8236978958278238375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_38
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 325
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a12c8cf0120c40800000000000000
+      internalID: 5476958773704762920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_39
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 326
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361a8b8eba5664180800000000000000
+      internalID: -9131499405428874909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_40
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 325
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a656ed68272cb420800000000000000
+      internalID: 2647033735582996133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_41
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 324
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11d819a5bdf19410800000000000000
+      internalID: 1482244709049487647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_42
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 323
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38cc0370effe5870800000000000000
+      internalID: 8673651271830128699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_43
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 322
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85059f6d095701600800000000000000
+      internalID: 436978428797341784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_44
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 322
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338ce1947e65a4fb0800000000000000
+      internalID: -4662818912824539085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_45
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 322
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aca4ce57d5787b00800000000000000
+      internalID: 826540099490852003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_46
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 322
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd619161b4d72a2e0800000000000000
+      internalID: -2115991113463949605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_47
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 322
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8b10a11f9827ea0800000000000000
+      internalID: -5876482895148631872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 258
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32401dcaf22c47a0800000000000000
+      internalID: -6391695310568013253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 258
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0245a6470a9182470800000000000000
+      internalID: 8369968084406653984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 258
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba79f6565d878c50800000000000000
+      internalID: 6667453175311203000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_51
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 258
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a637d0c2f68069e0800000000000000
+      internalID: -1630154687932582233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_52
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 258
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73ac5c8f30919680800000000000000
+      internalID: -8750053998391942277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 259
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e428693cccbda4840800000000000000
+      internalID: 5209217591508632142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_54
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 260
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710646f1f94285410800000000000000
+      internalID: 1465961944554168343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_55
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 261
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d2463434a44ca70800000000000000
+      internalID: 8846277220816399706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_56
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 261
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6efe232a1b22f070800000000000000
+      internalID: 8138614867871333997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_57
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 260
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e67c7e0089f47330800000000000000
+      internalID: 3707862721626928873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_58
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 259
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff3a0911b3d18fd0800000000000000
+      internalID: -2341357573673172997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_59
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 258
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bc92ec69ad002e0800000000000000
+      internalID: -2161487479899042991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_60
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 258
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d95ef5ec7d4fc2b0800000000000000
+      internalID: -5562141815949338157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_61
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 258
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b28a66d222e6b40800000000000000
+      internalID: 5435319378673937162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_62
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 258
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b771432a8e47149b0800000000000000
+      internalID: -5097664760704133253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_63
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 258
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0587f25011bc380800000000000000
+      internalID: -8950041120499806047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_64
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 197
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abeb5241da4a1bb0800000000000000
+      internalID: -4964573376600609884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 197
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bfd4675139a4ae0800000000000000
+      internalID: -1564276200169407682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_66
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 197
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf8f88ac53179db0800000000000000
+      internalID: -4785334790371962950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_67
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 197
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f36333109f8dca40800000000000000
+      internalID: 5390122177992549363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 197
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79105947cffea670800000000000000
+      internalID: 8552053973816711546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_69
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 197
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e713a3f8ed042a0800000000000000
+      internalID: -6755154734317732219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_70
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 196
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464942004d6d35200800000000000000
+      internalID: 167713817166648420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_71
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 196
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fe7fdfefb030280800000000000000
+      internalID: -9078399234038304869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_72
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 196
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937d5f3b61968cd20800000000000000
+      internalID: 3299002273278318393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_73
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 197
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc76dae910edec5e0800000000000000
+      internalID: -1887327095283161141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_74
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 197
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eca16f931ebfc110800000000000000
+      internalID: 1283453410311515360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_75
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 197
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dd3668348767220800000000000000
+      internalID: 2483304475954240771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_76
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 197
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b75a6c386188930800000000000000
+      internalID: 4145588212223802179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_77
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 197
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74df78b4d640af50800000000000000
+      internalID: 6890585309319255165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_78
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 197
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf181dde6e32480800000000000000
+      internalID: -8925036127421596449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_79
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 197
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dacd42f745b9e1a0800000000000000
+      internalID: -6779688443417081134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 133
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617d123cacd292130800000000000000
+      internalID: 3542412930784024342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9945a8194f44620800000000000000
+      internalID: 2757597777785821638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 131
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49762ece7b4c2540800000000000000
+      internalID: 4984441895588886860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_83
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 130
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61db5e8cfab009c90800000000000000
+      internalID: -7165214157528777450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_84
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 130
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae9571116ba286d0800000000000000
+      internalID: -2989638769227489618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_85
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 130
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc19952d49d073fb0800000000000000
+      internalID: -4668247555910823477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_86
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 130
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b19fb503afebba0800000000000000
+      internalID: -6071140162040423657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_87
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 130
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e3f098480e09600800000000000000
+      internalID: 473124820713684543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_88
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 130
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb131f550e8841030800000000000000
+      internalID: 3464544510450676158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_89
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 130
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47cd09c8efcd3110800000000000000
+      internalID: 1242377670936610635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_90
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 130
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ee03ccecf297180800000000000000
+      internalID: -9117203405399331291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_91
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 130
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c8f16e6e7a75100800000000000000
+      internalID: 96730527156898946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_92
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 131
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e3852c550954cc0800000000000000
+      internalID: -3727414418572034466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_93
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 131
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c369b8067f87f0800000000000000
+      internalID: -608137644829587859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_94
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 132
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c27633454d35f080800000000000000
+      internalID: -9154343299870985536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_95
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 133
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30965d41a129aea10800000000000000
+      internalID: 1939523230252755203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_96
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2394c9db74732a290800000000000000
+      internalID: -7880675616681604814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_97
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 68
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046b9688c07557080800000000000000
+      internalID: -9190343753239775680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_98
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 67
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707dad8ba6538df30800000000000000
+      internalID: 4600485751843116807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_99
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 66
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3507b3ff2d650950800000000000000
+      internalID: 6414653296978887994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_100
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 66
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e9073014423b6c0800000000000000
+      internalID: -4128916571719426412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_101
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd60b000c2d4baf0800000000000000
+      internalID: -381448346332533304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_102
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 66
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611e2d2ae6cdb20e0800000000000000
+      internalID: -2293497217478893290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_103
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 66
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5a6c22bd602a0f0800000000000000
+      internalID: -1107315020128672279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_104
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 66
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7724a29048f07a30800000000000000
+      internalID: 4211138607813240698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_105
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 66
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210ef9fcee4b4f1a0800000000000000
+      internalID: -6776592601507176430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_106
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 66
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dadca5e17b07100800000000000000
+      internalID: 103784132429851921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_107
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 66
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c06b2fe05ba3780800000000000000
+      internalID: -8702444254133875593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_108
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 67
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0e22c17634804a0800000000000000
+      internalID: -6626972741542944549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_109
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 67
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3dea2baac27b230800000000000000
+      internalID: 3654438734288311210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_110
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 69
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c0956fb4904f110800000000000000
+      internalID: 1293669214822403116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_111
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 69
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bc4b79d510481e0800000000000000
+      internalID: -2196629216761165000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_112
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6588bb3bcef266420800000000000000
+      internalID: 2622836526664091734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_113
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 4
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46c593e85be3b9b0800000000000000
+      internalID: -5065446388853782966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_114
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d68930efd1cd030800000000000000
+      internalID: 3520721985516105073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_115
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed9094d77799780800000000000000
+      internalID: -8675771827172548871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_116
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c650943a2e764d0800000000000000
+      internalID: -3141293024134992864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_117
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece50bdafaf9d6180800000000000000
+      internalID: -9120458093473276210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_118
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa03754e28dd30fe0800000000000000
+      internalID: -1223891119468236630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_119
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4285dab2bb3ee270800000000000000
+      internalID: 8281622403605693002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_120
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc1f82557aba8070800000000000000
+      internalID: 8109499092093050096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_121
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19239619cbc22c860800000000000000
+      internalID: 7548645113831436945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_122
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd814dc2d39f54460800000000000000
+      internalID: 7225455218326247645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_123
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 0
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9803fd45f57b1e1d0800000000000000
+      internalID: -3323173429949026167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_124
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0e4cd7a1cac4c0800000000000000
+      internalID: -4266384770280322404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_125
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26236f1565ebb570800000000000000
+      internalID: 8483626545563510317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_126
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 4
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858d76a1e52841c90800000000000000
+      internalID: -7199986563577030568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walker3_127
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 5
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f81c0f553503760800000000000000
+      internalID: 7435534613365231409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

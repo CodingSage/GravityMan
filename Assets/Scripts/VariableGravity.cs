@@ -9,10 +9,11 @@ public class VariableGravity : MonoBehaviour
     public Vector2 gravityDirection;
     public float gravityForce = 5f;
     private Rigidbody2D body;
+    public bool inverseInitialDirection = false;
 
     void Start()
     {
-        gravityDirection = Vector2.down;
+        gravityDirection = inverseInitialDirection ? Vector2.up : Vector2.down;
         body = GetComponent<Rigidbody2D>();
         // A gravity variable rigidbody will not have any natural gravity act on it
         body.gravityScale = 0;

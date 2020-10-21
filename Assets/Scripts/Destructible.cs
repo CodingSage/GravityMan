@@ -8,6 +8,7 @@ public class Destructible : MonoBehaviour
     public int maxHitPoints = 3;
     [SerializeField]
     private int hitPoints = 0;
+    public GameObject spawnOnDownPrefab;
 
     private void Start()
     {
@@ -30,6 +31,11 @@ public class Destructible : MonoBehaviour
         hitPoints = Mathf.Min(maxHitPoints, hitPoints);
         if(hitPoints <= 0 && type == DestructibleType.Environment)
         {
+            if(spawnOnDownPrefab != null)
+            {
+                GameObject spawned = Instantiate(spawnOnDownPrefab);
+                spawned.transform.position = transform.position;
+            }
             Destroy(gameObject);
         }
     }
