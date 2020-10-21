@@ -1,5 +1,17 @@
-## Gravity Man
+## NO WAY UP 
 
-GravityMan is a platformer where you play a thief who has the ability to control the direction of their own gravity and that of some special objects in the environment. Using this power the player has to solve puzzles, navigate and avoid/fight enemies (guards) to break into vaults and steal items. Emphasis on stealth, fighting/killing will make the player lose points.
+Shooter in space/futuristic environment. Player navigates the environment using gravity boots which enables the player to treat any surface as his floor. The player can also change the gravity for some special objects in the environment. Other enemies/entities are also capable of changing their own gravity and that of other objects similar to the player.
+
+Storyline: TBD
+
+Powerups 
+- If gravity change recharge time is present, we can reduce the recharge time
+- Jump bonus
+- Armour
+- Weapons
+- Control a mecha
+
+Environment
+- Environment is starting off in a city with an obvious right way up. Eventually we want to design environments where its not obvious anymore. Navigating such environments and solving puzzles should be core to the game.
 
 Game design doc - https://drive.google.com/file/d/1rDNS7W0gbtyDW2XzkMYhurAmQxl47S-H/view?usp=sharing

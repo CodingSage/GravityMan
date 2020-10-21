@@ -14,6 +14,7 @@ public class PlayerController : MonoBehaviour
     private Jumper jumper;
     private Destructible destructible;
     private PlayerAnimationController animationController;
+    private bool deactivatePlayer = false;
 
     void Start()
     {
@@ -25,6 +26,8 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        if (deactivatePlayer) return;
+
         Jumping();
         bool moving = Movement();
         bool crouching = Crouching();
@@ -33,6 +36,7 @@ public class PlayerController : MonoBehaviour
         animationController.PlayerCrouching(crouching);
         animationController.PlayerWalking(moving);
         animationController.PlayerJump(jumper.IsJumping());
+        if (destructible.isDown()) deactivatePlayer = true;
     }
 
     private bool Crouching()
