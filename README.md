@@ -1,8 +1,8 @@
 ## NO WAY UP 
 
-Shooter in space/futuristic environment. Player navigates the environment using gravity boots which enables the player to treat any surface as his floor. The player can also change the gravity for some special objects in the environment. Other enemies/entities are also capable of changing their own gravity and that of other objects similar to the player.
+A puzzle/shooter platformer where the player assumes the role of John Flipman, a gun slinging space age civilian who is tracking down the people who stole his wallet (or ate his lunch). Using his trusty gravity boots, Flipman is able to manipulate his own gravity and use any surface as his floor. The player can also change the gravity of some special objects which exist in the environment. Enemies and other entities (machines, robots) can also have the same power as Flipman, because technology can't choose.
 
-Storyline: TBD
+*Title and storyline subject to change to maybe make more sense, but no promises*
 
 Powerups 
 - If gravity change recharge time is present, we can reduce the recharge time

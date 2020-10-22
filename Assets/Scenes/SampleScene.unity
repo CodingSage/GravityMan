@@ -10977,7 +10977,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 041edc80a648a974c9c1720884debad4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  accelaration: 10
+  accelaration: 8
   maxSpeed: 15
 --- !u!95 &983347788
 Animator:
@@ -11294,8 +11294,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 041edc80a648a974c9c1720884debad4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  accelaration: 5
-  maxSpeed: 10
+  accelaration: 8
+  maxSpeed: 15
 --- !u!50 &1069959740
 Rigidbody2D:
   serializedVersion: 4
